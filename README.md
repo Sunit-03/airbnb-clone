@@ -9,3 +9,6 @@ Home Page of the website
 
 Text bolds if hovered around
 ![image](https://user-images.githubusercontent.com/79561191/221900207-48091593-8665-47de-aee1-78733bdc8fee.png)
+
+Footer included
+![image](https://user-images.githubusercontent.com/79561191/221901217-5aa0a15e-74bd-4c7c-9993-0034ff3ad9ca.png)
