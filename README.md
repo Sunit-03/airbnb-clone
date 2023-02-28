@@ -11,4 +11,4 @@ Text bolds if hovered around
 ![image](https://user-images.githubusercontent.com/79561191/221900207-48091593-8665-47de-aee1-78733bdc8fee.png)
 
 Footer included
-![image](https://user-images.githubusercontent.com/79561191/221901217-5aa0a15e-74bd-4c7c-9993-0034ff3ad9ca.png)
+![image](https://user-images.githubusercontent.com/79561191/221901464-d8eeeeb6-6b76-46e3-bc7b-a64a7f2d41f8.png)
